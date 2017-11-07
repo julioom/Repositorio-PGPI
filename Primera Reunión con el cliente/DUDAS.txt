@@ -1,0 +1,12 @@
+Reunión 1 con el cliente
+
+
+Coordinador : Felix
+Secretario : Jose Carlos
+
+
+DUDAS PARA PREGUNTAR AL CLIENTE:
+-Cuando no le viene bien un dia a un integrante del equipo debe ponerse en contacto con el PM, ¿eso lo hace el integrante por su cuenta?
+-PM a la hora de poner fechas para las reuniones, ¿puede poner una o varias fechas a la vez?
+-Cuando se hace la segunda ronda de elegir fecha, si hay alguien disconforme se escoge el dia que más gente pudiera asistir,¿de todos los dias que 
+intento fijar, o solo de las fechas de esta ultima ronda?
