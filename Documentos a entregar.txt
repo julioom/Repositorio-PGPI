@@ -1,6 +1,0 @@
-- Acta de constitución
-- Acta de reunión de planificación de la iteración (Renombrar a Acta de reunión de planificación)
-- Memoria
-- Reunión retrospective
-
-Hay que subirlo todo a ProjEtsii al repositorio.
